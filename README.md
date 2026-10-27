@@ -35,6 +35,8 @@ drag Kadr to Applications. On first launch macOS warns that it can't verify the 
 On first launch Kadr asks for **Screen Recording** permission — screenshots don't work without it.
 Kadr opens the right setting for you. macOS 14 or later, Apple Silicon and Intel.
 
+**Updates install themselves:** Kadr → Check for Updates… → Install and Relaunch. Permissions are kept.
+
 ## Features
 
 - Capture an area, a window (with shadow) or the full screen; **⌘⇧4 / ⌘⇧3** like macOS, with a preview in the corner
