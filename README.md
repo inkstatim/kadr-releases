@@ -45,7 +45,7 @@ Kadr opens the right setting for you. macOS 14 or later, Apple Silicon and Intel
 - Screen recording to MP4 or GIF, with system audio and microphone (microphone on macOS 15+)
 - History, library with search by text inside screenshots, collages, pin a screenshot on top of all windows
 - Upload to S3 / Cloudflare R2 / your server with the link copied to the clipboard
-- English, Ukrainian and Russian interface
+- 14 interface languages: English, Deutsch, Español, Français, Italiano, Nederlands, Polski, Português (Brasil), Türkçe, Українська, Русский, 日本語, 한국어, 简体中文 — follows your system language, switch any time in Settings
 
 ## Privacy & safety
 

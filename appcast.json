@@ -1,6 +1,6 @@
 {
-  "version": "0.1.1",
-  "build": 2,
-  "url": "https://github.com/inkstatim/kadr-releases/releases/download/v0.1.1/Kadr-0.1.1.dmg",
-  "notes": "Український інтерфейс · Ukrainian interface · установка через Homebrew: brew install inkstatim/kadr/kadr"
+  "version": "0.1.2",
+  "build": 3,
+  "url": "https://github.com/inkstatim/kadr-releases/releases/download/v0.1.2/Kadr-0.1.2.dmg",
+  "notes": "14 interface languages · 14 мов інтерфейсу · 14 языков интерфейса"
 }
