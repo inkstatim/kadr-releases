@@ -1,57 +1,118 @@
-# Kadr — релизы
+# Kadr
 
-Kadr — нативное приложение для скриншотов и записи экрана на macOS: снимки области и окна, редактор с пометками,
-скролл-скриншоты, OCR, запись MP4/GIF, оформление снимков.
-**Бесплатная замена платным приложениям для скриншотов** — все функции без ограничений.
+**Free screenshot & screen recording app for macOS.** A free replacement for paid screenshot tools —
+every feature, no limits, no account, no telemetry.
 
-macOS 14 и новее, Apple Silicon и Intel. [☕ Угостить кофе](#на-кофе)
+[English](#install) · [Українською](#українською) · [По-русски](#по-русски)
 
-## Установка за минуту
+![Kadr — settings window annotated and framed by Kadr itself](assets/hero.jpg)
 
-**1.** Откройте «Терминал»: нажмите **⌘ + Пробел**, напечатайте `Терминал` и нажмите **Enter**.
+<sub>This image was made with Kadr: numbered markers, frames, window chrome and gradient backdrop.</sub>
 
-**2.** Скопируйте эту строку, вставьте её в Терминал (**⌘ + V**) и нажмите **Enter**:
+## Install
+
+**Easiest — one command, about a minute:**
+
+1. Open **Terminal**: press **⌘ Space**, type `Terminal`, press **Enter**.
+2. Paste this line (**⌘ V**) and press **Enter**:
+
+   ```
+   curl -fsSL https://raw.githubusercontent.com/inkstatim/kadr-releases/main/install.sh | bash
+   ```
+
+3. Done — Kadr downloads, installs to Applications and starts. Its icon appears in the menu bar.
+
+**Homebrew:**
 
 ```
-curl -fsSL https://raw.githubusercontent.com/inkstatim/kadr-releases/main/install.sh | bash
+brew install inkstatim/kadr/kadr
 ```
 
-**3.** Готово: Kadr сам скачается, установится в «Программы» и запустится. Его значок появится
-в строке меню вверху экрана. Терминал можно закрыть.
+**Or download the DMG:** [Kadr.dmg](https://github.com/inkstatim/kadr-releases/releases/latest/download/Kadr.dmg) →
+drag Kadr to Applications. On first launch macOS warns that it can't verify the developer: open
+**System Settings → Privacy & Security → Open Anyway** (macOS 14: right-click Kadr → Open).
 
-При первом запуске Kadr попросит разрешение «Запись экрана» — без него снимки не работают.
-Kadr сам откроет нужную настройку: включите там Kadr и перезапустите его.
+On first launch Kadr asks for **Screen Recording** permission — screenshots don't work without it.
+Kadr opens the right setting for you. macOS 14 or later, Apple Silicon and Intel.
 
-Эта же строка обновляет Kadr до последней версии. Kadr и сам предлагает обновления
-(меню → «Проверить обновления…»), разрешения при этом сохраняются.
+## Features
 
-<details>
-<summary>Установить без Терминала</summary>
+- Capture an area, a window (with shadow) or the full screen; **⌘⇧4 / ⌘⇧3** like macOS, with a preview in the corner
+- Editor: arrows, shapes, text, numbered markers, highlighter, blur, pixelate, spotlight, magnifier, color picker, crop, resize
+- Backdrop: gradients and window, browser, MacBook and iPhone frames; auto-hide e-mails, phones, card numbers and tokens
+- Scrolling screenshots
+- Text and QR recognition (OCR)
+- Screen recording to MP4 or GIF, with system audio and microphone (microphone on macOS 15+)
+- History, library with search by text inside screenshots, collages, pin a screenshot on top of all windows
+- Upload to S3 / Cloudflare R2 / your server with the link copied to the clipboard
+- English, Ukrainian and Russian interface
 
-1. [Скачайте Kadr.dmg](https://github.com/inkstatim/kadr-releases/releases/latest/download/Kadr.dmg),
-   откройте его и перетащите **Kadr** в «Программы».
-2. Запустите Kadr. macOS предупредит, что не может проверить разработчика (Kadr не заверен Apple).
-   Нажмите «Готово», затем:
-   - **macOS 15 и новее:** «Системные настройки» → «Конфиденциальность и безопасность» → внизу
-     «Kadr заблокирован…» → **«Всё равно открыть»** → подтвердите паролем.
-   - **macOS 14:** правый клик по Kadr в «Программах» → «Открыть» → «Открыть».
+## Privacy & safety
 
-</details>
+- Screenshots never leave your Mac unless you upload them yourself. No account, no analytics.
+  Kadr goes online only to check this repository for updates (once a day).
+- Kadr is not notarized by Apple: that needs a paid developer certificate ($99/year).
+  It is signed with its own certificate; the installer checks that signature before installing.
+  The installer is a short script — [read it](install.sh) before running.
 
-Идеи, предложения и ошибки — в Telegram [@akm_tims](https://t.me/akm_tims).
+## ☕ Buy me a coffee
 
-## На кофе
+Kadr is free. If it saves you time, you can buy the developer a coffee in crypto.
+**Send only on the network shown** — a transfer on another network is lost.
 
-Kadr бесплатный. Если он пригодился, можно угостить разработчика кофе ☕ — криптовалютой.
-**Отправляйте только в указанной сети** — перевод в другой сети потеряется.
-
-| Монета | Сеть | Адрес |
+| Coin | Network | Address |
 |---|---|---|
 | USDT | TRC-20 (Tron) | `TAWB59Ux6Zbtn1cgG5DhSXXYnP8xpYSW2U` |
 | SOL | Solana | `8kn2UnorPSzKVNiDXSsUhLQxcN9PzBrGGC2CYD9oNswQ` |
 | BTC | Bitcoin | `16eZYwKBSFA6bgRodD2qTMK3KBtUdwXooJ` |
 
-## Для разработчика
+Ideas, bugs, feature requests — Telegram [@akm_tims](https://t.me/akm_tims).
+
+---
+
+## Українською
+
+**Kadr — безкоштовна програма для знімків і запису екрана на macOS.** Безкоштовна заміна платним
+скриншотерам: усі функції без обмежень, без акаунта й аналітики. Інтерфейс українською.
+
+**Встановлення за хвилину:** відкрийте «Термінал» (**⌘ Пробіл** → `Термінал` → **Enter**), вставте рядок і натисніть **Enter**:
+
+```
+curl -fsSL https://raw.githubusercontent.com/inkstatim/kadr-releases/main/install.sh | bash
+```
+
+Kadr сам завантажиться, встановиться в «Програми» й запуститься. Також: `brew install inkstatim/kadr/kadr`
+або [Kadr.dmg](https://github.com/inkstatim/kadr-releases/releases/latest/download/Kadr.dmg)
+(тоді при першому запуску: «Системні параметри» → «Приватність і безпека» → «Усе одно відкрити»).
+
+Що вміє: знімки області, вікна й екрана, ⌘⇧4 / ⌘⇧3 як у macOS, редактор зі стрілками, текстом,
+розмиттям і лічильниками, оформлення з градієнтами й рамками, скрол-скриншоти, розпізнавання тексту
+й QR, запис екрана в MP4/GIF, бібліотека з пошуком, колажі, завантаження в S3/R2.
+
+**На каву ☕** — якщо Kadr знадобився, адреси вище, у розділі [Buy me a coffee](#-buy-me-a-coffee).
+Ідеї та помилки — у Telegram [@akm_tims](https://t.me/akm_tims).
+
+## По-русски
+
+**Kadr — бесплатное приложение для скриншотов и записи экрана на macOS.** Бесплатная замена платным
+скриншотерам: все функции без ограничений, без аккаунта и аналитики.
+
+**Установка за минуту:** откройте «Терминал» (**⌘ Пробел** → `Терминал` → **Enter**), вставьте строку и нажмите **Enter**:
+
+```
+curl -fsSL https://raw.githubusercontent.com/inkstatim/kadr-releases/main/install.sh | bash
+```
+
+Kadr сам скачается, установится в «Программы» и запустится. Ещё варианты: `brew install inkstatim/kadr/kadr`
+или [Kadr.dmg](https://github.com/inkstatim/kadr-releases/releases/latest/download/Kadr.dmg)
+(тогда при первом запуске: «Системные настройки» → «Конфиденциальность и безопасность» → «Всё равно открыть»).
+
+**На кофе ☕** — если Kadr пригодился, адреса выше, в разделе [Buy me a coffee](#-buy-me-a-coffee).
+Идеи и ошибки — в Telegram [@akm_tims](https://t.me/akm_tims).
+
+---
+
+## For the maintainer (по-русски)
 
 `appcast.json` — манифест обновлений: Kadr раз в сутки и по «Проверить обновления…» читает его
 с `raw.githubusercontent.com` и предлагает скачать новую версию, если `build` больше установленного.
