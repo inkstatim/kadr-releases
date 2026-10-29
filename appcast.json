@@ -1,6 +1,6 @@
 {
-  "version": "0.1.4",
-  "build": 5,
-  "url": "https://github.com/inkstatim/kadr-releases/releases/download/v0.1.4/Kadr-0.1.4.dmg",
-  "notes": "Collage → Open in Editor (move screenshots, draw arrows) · silent screenshots (Settings → Shutter Sound) · crash fix"
+  "version": "0.1.5",
+  "build": 6,
+  "url": "https://github.com/inkstatim/kadr-releases/releases/download/v0.1.5/Kadr-0.1.5.dmg",
+  "notes": "Sharper screenshots on regular (non-Retina) monitors: saved and copied exactly as on screen, no blur in Telegram or in the editor."
 }
