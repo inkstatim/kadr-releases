@@ -1,6 +1,6 @@
 {
-  "version": "0.1.3",
-  "build": 4,
-  "url": "https://github.com/inkstatim/kadr-releases/releases/download/v0.1.3/Kadr-0.1.3.dmg",
-  "notes": "Updates now install themselves. This time, if macOS blocks the new version: System Settings → Privacy & Security → Open Anyway, or reinstall with the Terminal command from the README."
+  "version": "0.1.4",
+  "build": 5,
+  "url": "https://github.com/inkstatim/kadr-releases/releases/download/v0.1.4/Kadr-0.1.4.dmg",
+  "notes": "Collage → Open in Editor (move screenshots, draw arrows) · silent screenshots (Settings → Shutter Sound) · crash fix"
 }
