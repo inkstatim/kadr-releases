@@ -1,6 +1,6 @@
 {
-  "version": "0.1.7",
-  "build": 8,
-  "url": "https://github.com/inkstatim/kadr-releases/releases/download/v0.1.7/Kadr-0.1.7.dmg",
-  "notes": "Report a Problem… right from the app: description, files and optional system info go straight to the developer. Website: inkstatim.dev/kadr."
+  "version": "0.1.8",
+  "build": 9,
+  "url": "https://github.com/inkstatim/kadr-releases/releases/download/v0.1.8/Kadr-0.1.8.dmg",
+  "notes": "Clearer cursors in the editor: regular pointer for shapes and arrows, precise crosshair for picker, crop and pencil, move and resize cursors on handles."
 }
