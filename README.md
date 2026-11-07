@@ -53,7 +53,8 @@ Kadr opens the right setting for you. macOS 14 or later, Apple Silicon and Intel
 
 - Screenshots never leave your Mac unless you upload them yourself. No account, no analytics.
   Kadr goes online only to check this repository for updates (once a day) and when you send
-  a problem report yourself (Report a Problem… — you see everything that will be sent).
+  a problem report yourself (Report a Problem… — you see everything that will be sent;
+  reports are kept for up to 90 days and used only to fix bugs).
 - Kadr is not notarized by Apple: that needs a paid developer certificate ($99/year).
   It is signed with its own certificate; the installer checks that signature before installing.
   The installer is a short script — [read it](install.sh) before running.
