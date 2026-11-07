@@ -3,7 +3,7 @@
 **Free screenshot & screen recording app for macOS.** A free replacement for paid screenshot tools —
 every feature, no limits, no account, no telemetry.
 
-[English](#install) · [Українською](#українською) · [По-русски](#по-русски)
+🌐 **Website: [inkstatim.dev/kadr](https://inkstatim.dev/kadr/)** · [English](#install) · [Українською](#українською) · [По-русски](#по-русски)
 
 ![Kadr — settings window annotated and framed by Kadr itself](assets/hero.jpg)
 
@@ -83,7 +83,7 @@ Ideas, bugs, feature requests — Telegram [@akm_tims](https://t.me/akm_tims).
 curl -fsSL https://raw.githubusercontent.com/inkstatim/kadr-releases/main/install.sh | bash
 ```
 
-Kadr сам завантажиться, встановиться в «Програми» й запуститься. Також: `brew install inkstatim/kadr/kadr`
+Kadr сам завантажиться, встановиться в «Програми» й запуститься. Сайт: [inkstatim.dev/kadr](https://inkstatim.dev/kadr/). Також: `brew install inkstatim/kadr/kadr`
 або [Kadr.dmg](https://github.com/inkstatim/kadr-releases/releases/latest/download/Kadr.dmg)
 (тоді при першому запуску: «Системні параметри» → «Приватність і безпека» → «Усе одно відкрити»).
 
@@ -105,7 +105,7 @@ Kadr сам завантажиться, встановиться в «Прогр
 curl -fsSL https://raw.githubusercontent.com/inkstatim/kadr-releases/main/install.sh | bash
 ```
 
-Kadr сам скачается, установится в «Программы» и запустится. Ещё варианты: `brew install inkstatim/kadr/kadr`
+Kadr сам скачается, установится в «Программы» и запустится. Сайт: [inkstatim.dev/kadr](https://inkstatim.dev/kadr/). Ещё варианты: `brew install inkstatim/kadr/kadr`
 или [Kadr.dmg](https://github.com/inkstatim/kadr-releases/releases/latest/download/Kadr.dmg)
 (тогда при первом запуске: «Системные настройки» → «Конфиденциальность и безопасность» → «Всё равно открыть»).
 
