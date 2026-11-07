@@ -1,6 +1,6 @@
 {
-  "version": "0.1.5",
-  "build": 6,
-  "url": "https://github.com/inkstatim/kadr-releases/releases/download/v0.1.5/Kadr-0.1.5.dmg",
-  "notes": "Sharper screenshots on regular (non-Retina) monitors: saved and copied exactly as on screen, no blur in Telegram or in the editor."
+  "version": "0.1.6",
+  "build": 7,
+  "url": "https://github.com/inkstatim/kadr-releases/releases/download/v0.1.6/Kadr-0.1.6.dmg",
+  "notes": "No flicker when capturing, faster screenshots, new \"Selection like macOS\" option and a precise crosshair with a dot on the target pixel."
 }
