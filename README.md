@@ -52,7 +52,8 @@ Kadr opens the right setting for you. macOS 14 or later, Apple Silicon and Intel
 ## Privacy & safety
 
 - Screenshots never leave your Mac unless you upload them yourself. No account, no analytics.
-  Kadr goes online only to check this repository for updates (once a day).
+  Kadr goes online only to check this repository for updates (once a day) and when you send
+  a problem report yourself (Report a Problem… — you see everything that will be sent).
 - Kadr is not notarized by Apple: that needs a paid developer certificate ($99/year).
   It is signed with its own certificate; the installer checks that signature before installing.
   The installer is a short script — [read it](install.sh) before running.
@@ -68,7 +69,7 @@ Kadr is free. If it saves you time, you can buy the developer a coffee in crypto
 | SOL | Solana | `8kn2UnorPSzKVNiDXSsUhLQxcN9PzBrGGC2CYD9oNswQ` |
 | BTC | Bitcoin | `16eZYwKBSFA6bgRodD2qTMK3KBtUdwXooJ` |
 
-Ideas, bugs, feature requests — Telegram [@akm_tims](https://t.me/akm_tims).
+Bugs: **Kadr menu → Report a Problem…** (attach files and screenshots). Ideas and feature requests — Telegram [@akm_tims](https://t.me/akm_tims).
 
 ---
 

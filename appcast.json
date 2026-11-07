@@ -1,6 +1,6 @@
 {
-  "version": "0.1.6",
-  "build": 7,
-  "url": "https://github.com/inkstatim/kadr-releases/releases/download/v0.1.6/Kadr-0.1.6.dmg",
-  "notes": "No flicker when capturing, faster screenshots, new \"Selection like macOS\" option and a precise crosshair with a dot on the target pixel."
+  "version": "0.1.7",
+  "build": 8,
+  "url": "https://github.com/inkstatim/kadr-releases/releases/download/v0.1.7/Kadr-0.1.7.dmg",
+  "notes": "Report a Problem… right from the app: description, files and optional system info go straight to the developer. Website: inkstatim.dev/kadr."
 }
