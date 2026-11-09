@@ -1,6 +1,6 @@
 {
-  "version": "0.1.8",
-  "build": 9,
-  "url": "https://github.com/inkstatim/kadr-releases/releases/download/v0.1.8/Kadr-0.1.8.dmg",
-  "notes": "Clearer cursors in the editor: regular pointer for shapes and arrows, precise crosshair for picker, crop and pencil, move and resize cursors on handles."
+  "version": "0.1.9",
+  "build": 10,
+  "url": "https://github.com/inkstatim/kadr-releases/releases/download/v0.1.9/Kadr-0.1.9.dmg",
+  "notes": "Donate with any crypto: Support Kadr now has a NOWPayments link for any coin and network; direct USDT, SOL and BTC addresses remain."
 }
