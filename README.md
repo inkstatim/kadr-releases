@@ -62,7 +62,9 @@ Kadr opens the right setting for you. macOS 14 or later, Apple Silicon and Intel
 ## ☕ Buy me a coffee
 
 Kadr is free. If it saves you time, you can buy the developer a coffee in crypto.
-**Send only on the network shown** — a transfer on another network is lost.
+**[☕ Donate with any crypto](https://nowpayments.io/donation/inkstatim)** — pay in any coin NOWPayments supports.
+
+Or send directly to an address below. **Send only on the network shown** — a transfer on another network is lost.
 
 | Coin | Network | Address |
 |---|---|---|
@@ -93,7 +95,7 @@ Kadr сам завантажиться, встановиться в «Прогр
 розмиттям і лічильниками, оформлення з градієнтами й рамками, скрол-скриншоти, розпізнавання тексту
 й QR, запис екрана в MP4/GIF, бібліотека з пошуком, колажі, завантаження в S3/R2.
 
-**На каву ☕** — якщо Kadr знадобився, адреси вище, у розділі [Buy me a coffee](#-buy-me-a-coffee).
+**На каву ☕** — якщо Kadr знадобився, [задонатити будь-якою криптовалютою](https://nowpayments.io/donation/inkstatim) або адреси вище, у розділі [Buy me a coffee](#-buy-me-a-coffee).
 Ідеї та помилки — у Telegram [@akm_tims](https://t.me/akm_tims).
 
 ## По-русски
@@ -111,7 +113,7 @@ Kadr сам скачается, установится в «Программы»
 или [Kadr.dmg](https://github.com/inkstatim/kadr-releases/releases/latest/download/Kadr.dmg)
 (тогда при первом запуске: «Системные настройки» → «Конфиденциальность и безопасность» → «Всё равно открыть»).
 
-**На кофе ☕** — если Kadr пригодился, адреса выше, в разделе [Buy me a coffee](#-buy-me-a-coffee).
+**На кофе ☕** — если Kadr пригодился, [задонатить любой криптовалютой](https://nowpayments.io/donation/inkstatim) или адреса выше, в разделе [Buy me a coffee](#-buy-me-a-coffee).
 Идеи и ошибки — в Telegram [@akm_tims](https://t.me/akm_tims).
 
 ---
